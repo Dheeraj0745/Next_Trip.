@@ -12,7 +12,7 @@ a{
 header{
     height: 100vh;
     width: 100vw;
-    background-image: url(/AdvantureTrip/Assets/images/AdventureWebstieImages/img/header-bg.png);
+    background-image: url(header-bg.png);
     background-size: cover;
     background-position: bottom;
     display: flex;
@@ -113,7 +113,7 @@ section{
 .Explore{
     height: 110vh;
     width: 100vw;
-    background-image: url(/AdvantureTrip/Assets/images/AdventureWebstieImages/img/bg2.png);
+    background-image: url(bg2.png);
     background-repeat: no-repeat;
     margin-left: 50px;
     display: flex;
